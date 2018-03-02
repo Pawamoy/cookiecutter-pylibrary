@@ -1,0 +1,10 @@
+build
+.coverage*
+dist
+*.egg-info/
+htmlcov
+.idea/
+*.pyc
+__pycache__/
+sdist
+.tox/
